@@ -1,6 +1,6 @@
-#Prueba Técnica de la Empresa [Jacs3d](https://jacs3d.com/)
+# Prueba Técnica de la Empresa [Jacs3d](https://jacs3d.com/)
 
-####Utilizar [Laravel](https://laravel.com/) como framework para el desarrollo.
+#### Utilizar [Laravel](https://laravel.com/) como framework para el desarrollo.
 
 <p>Implementar una API RESTFUL que proporcione endpoints para:</p>
 
@@ -9,14 +9,12 @@
 - Leer un registro específico por su ID.
 - Actualizar un registro existente.
 - Eliminar un registro.
-
-
 - Utilizar Eloquent ORM para interactuar con la base de datos.
 - Utilizar controladores y rutas de Laravel para manejar las solicitudes HTTP.
 - Utilizar migraciones de Laravel para crear la estructura de la base de datos.
 - Implementar validación de datos en el backend.
 
-#####Atributos de la Base de Datos:
+<h4>Atributos de la Base de Datos:</h4>
 
 | Nombre | Edad | Grado | Correo | Fecha de Registro |
 | ------------------------ | ---------------------- | --------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ |
@@ -24,7 +22,7 @@
 
 <hr>
 
-##Instalaciones Necesarias 
+<h2>Instalaciones Necesarias</h2>
 <p>Estas Instalaciones no afectan la Versión de Laravel que desean utilizar.</p>
 
 - **[Composer](https://getcomposer.org/)**
@@ -34,7 +32,7 @@
 
 <hr>
 
-##Mi Historia en la Prueba
+<h2>Mi Historia en la Prueba</h2>
 
 <p>Habia aplicado a la oferta de Practicante de Tecnologo en Analisis y Desarrollo de Software en la Empresa Jacs3d el 12 de Marzo de 2024, en la cual me respondieron con un correo a las 2:02 pm del 15 de Marzo de 2024 donde me informaron que me comunicara con ellos por via WhatsApp, dada la casualidad ese dia habia salido a las 12:15 pm hacer una compras regresando a la casa a las 5:15 pm donde me comunique con ellos a las 5:18 pm, despues de una preguntas me comentaron de que la prueba habia iniciado ese mismo dia  a las 10:00 am pero me darian la oportunidad de participar y estarian disponibles hasta las 10:00 pm, si lograba terminar la prueba harian la revision a esa misma hora si no podia terminarla entonces la revisarian el 18 de Marzo de 2024 a las 10:00 am. 
 
@@ -51,9 +49,9 @@ Luego me comunique con el Encargado de la Prueba y le explique que todavia no ha
 
 <hr>
 
-##Recomendaciones por si quieres Clonar el Repositorio
+<h2>Recomendaciones por si quieres Clonar el Repositorio</h2>
 
-#####En mi Caso utilize [Laravel en la Versión 10](https://laravel.com/docs/10.x)
+##### En mi Caso utilize [Laravel en la Versión 10](https://laravel.com/docs/10.x)
 
 - Instale **[Tailwind CSS](https://tailwindcss.com/docs/guides/laravel)** para los Estilos en Laravel, si deseas Visualizar y Actualizar los Estilos, es necesario que en la terminal ejecutes este comando: `npm run dev`
 - El Gestor de Base de Datos es **phpMyAdmin** el cual **Xampp** maneja
